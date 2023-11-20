@@ -9,7 +9,7 @@ bucket_name='coderbytechallengesandbox'
 
 
 # Specify the public bucket URL
-bucket_url = 'https://coderbytechallengesandbox.s3.amazonaws.com/'
+bucket_url = 'https://cbytechallengesandbox.s3.amazonaws.com/'
 
 # Initialize a botocore session without credentials
 session = botocore.session.Session()
